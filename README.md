@@ -1,6 +1,7 @@
 # Entrega do Projeto Final
 
 ## Grupo
+- Gregório Xavier Nascimento Pereira 2601820
 - Leonardo Hasselmann 2602356
 - Lucas Alves de Carvalho 2601908
 - Lucas Gomes Fernandes Alonso 2603004 
